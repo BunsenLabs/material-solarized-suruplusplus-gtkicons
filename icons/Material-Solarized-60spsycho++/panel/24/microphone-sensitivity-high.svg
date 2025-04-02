@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#df5940; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#d8d15f; stop-opacity:1"/>
+    <stop offset="0%" style="stop-color:#e9882a; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#279362; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-152 -648.36)">
+  <path fill="url(#60spsycho)" class="ColorScheme-Text" d="m164 652.36c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm-6 7v0.99999c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-0.99999h-2v0.99999c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-0.99999z"/>
+ </g>
+</svg>

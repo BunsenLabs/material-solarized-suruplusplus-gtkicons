@@ -1,0 +1,13 @@
+material-solarized-suruplusplus-ng (12.5-1) carbon; urgency=medium
+
+  * New upstream version.
+
+ -- Mick Amadio <01micko@gmx.com>  Wed, 02 Apr 2025 09:25:45 +1000
+
+material-solarized-suruplusplus-ng (12.4-1) carbon; urgency=medium
+
+  * Initial release.
+  * Import Material-Solarized-Suru++ directory from BunsenLabs.
+     https://github.com/BunsenLabs/material-solarized-suruplusplus-icon-theme
+
+ -- Mick Amadio <01micko@gmx.com>  Sun, 30 Mar 2025 08:18:43 +2000

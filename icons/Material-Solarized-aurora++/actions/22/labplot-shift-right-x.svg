@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+  <path fill="url(#aurora)" class="ColorScheme-Text" d="M 11 0 L 9 4 L 13 4 L 11 0 z M 7 6 L 3 8 L 7 10 L 7 6 z M 11 7 C 10.446 7 10 7.446 10 8 C 10 8.554 10.446 9 11 9 C 11.554 9 12 8.554 12 8 C 12 7.446 11.554 7 11 7 z M 9 12 L 11 16 L 13 12 L 9 12 z" transform="translate(3 3)"/>
+</svg>

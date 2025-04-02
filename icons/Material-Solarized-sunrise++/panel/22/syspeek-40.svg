@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#FF8501; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#FFCB01; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-401 -1005.4)">
+  <path fill="url(#sunrise)" class="ColorScheme-Text" d="m406 1008.4c-2 0-2 2-2 2v12c0 2 2 2 2 2h12s2 0 2-2v-12c0-2-2-2-2-2h-12zm0 1.9981h12v12h-12v-12zm1 7v4h10v-4h-10z"/>
+ </g>
+</svg>

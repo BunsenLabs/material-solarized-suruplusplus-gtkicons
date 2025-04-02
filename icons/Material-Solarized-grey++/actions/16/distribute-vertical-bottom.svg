@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="grey" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#8C8C8C; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#4B4B4B; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+  <path fill="url(#grey)" class="ColorScheme-Text" d="M 2.9960938 0.00390625 L 2.9960938 5.0039062 L 0.99609375 5.0039062 L 0.99609375 7.0039062 L 14.996094 7.0039062 L 14.996094 5.0039062 L 12.996094 5.0039062 L 12.996094 0.00390625 L 8.9960938 0.00390625 L 8.9960938 5.0039062 L 6.9960938 5.0039062 L 6.9960938 0.00390625 L 2.9960938 0.00390625 z M 2.9960938 9.0039062 L 2.9960938 14.003906 L 0.99609375 14.003906 L 0.99609375 16.003906 L 14.996094 16.003906 L 14.996094 14.003906 L 12.996094 14.003906 L 12.996094 9.0039062 L 8.9960938 9.0039062 L 8.9960938 14.003906 L 6.9960938 14.003906 L 6.9960938 9.0039062 L 2.9960938 9.0039062 z"/>
+</svg>

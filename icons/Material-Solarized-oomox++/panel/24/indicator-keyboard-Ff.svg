@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#a4d8d4; stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#318c85; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(1,1)">
+ <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
+  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5.0000007,10.999902 3.9999986,0 m -3.9999986,-4.0000025 3.9999986,0 m -3.9999003,8.0000985 0,-7.9999964"/>
+  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 13.000001,10.999902 3.999998,0 m -3.999998,-4.0000023 3.999998,0 m -3.9999,8.0000983 0,-7.9999962"/>
+ </g>
+</svg>
