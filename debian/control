@@ -1,156 +1,76 @@
-Source: material-solarized-suruplusplus-ng
+Source: material-solarized-suruplusplus-gtkicons
 Section: x11
 Priority: optional
 Maintainer: Mick Amadio <01micko@gmx.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1.0
 Rules-Requires-Root: no
-Homepage: https://github.com/01micko/material-solarized-suruplusplus-ng
-Vcs-Git: https://github.com/01micko/material-solarized-suruplusplus-ng.git
-Vcs-Browser: https://github.com/01micko/material-solarized-suruplusplus-ng
+Homepage: https://github.com/01micko/material-solarized-suruplusplus-gtkicons
+Vcs-Git: https://github.com/01micko/material-solarized-suruplusplus-gtkicons.git
+Vcs-Browser: https://github.com/01micko/material-solarized-suruplusplus-gtkicons
 
 Package: material-solarized-suruplusplus-common
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-arrongin | material-solarized-suruplusplus-aurora | material-solarized-suruplusplus-cyberneon | material-solarized-suruplusplus-fitdance | material-solarized-suruplusplus-oomox | material-solarized-suruplusplus-rainblue | material-solarized-suruplusplus-sunrise | material-solarized-suruplusplus-telinkrin | material-solarized-suruplusplus-60spsycho | material-solarized-suruplusplus-90ssummer | material-solarized-suruplusplus-bark | material-solarized-suruplusplus-sage
+Depends: ${misc:Depends}, librsvg2-common
 Recommends: gtk-update-icon-cache
-Description: Material-Solarized-common++ icon set
- From rtl88-Themes, this is the Material-Solarized-Suru++ icon set
+Description: Material-Solarized-common-icons set
+ From rtl88-Themes, this is the Material-Solarized-Suru-icons set
  from the Material-Solarized branch, packaged for BunsenLabs.
- This is the common icons set and requires another flavour.
+ This is the common set and requires another flavour.
  .
- The source package is named material-solarized-suruplusplus-ng
+ The source package is named material-solarized-suruplusplus-icons
  because of restrictions by GitHub on characters in repository names.
  .
  Upstream repositories:
  https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized
  https://github.com/BunsenLabs/material-solarized-suruplusplus-icon-theme
 
-Package: material-solarized-suruplusplus-bark
+Package: material-solarized-suruplusplus-icons-bark
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
 Recommends: gtk-update-icon-cache
-Description: Material-Solarized-bark++ icon set
- This is the bark flavour icons set.
+Description: Material-Solarized-bark-icons set
+ This is the bark flavour set.
  .
- The source package is named material-solarized-suruplusplus-ng
+ The source package is named material-solarized-suruplusplus-icons
  because of restrictions by GitHub on characters in repository names.
 
-Package: material-solarized-suruplusplus-sage
+Package: material-solarized-suruplusplus-icons-sage
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
 Recommends: gtk-update-icon-cache
-Description: Material-Solarized-sage++ icon set
- This is the sage flavour icons set.
+Description: Material-Solarized-sage-icons set
+ This is the sage flavour set.
  .
- The source package is named material-solarized-suruplusplus-ng
+ The source package is named material-solarized-suruplusplus-icons
  because of restrictions by GitHub on characters in repository names.
 
-Package: material-solarized-suruplusplus-arrongin
+Package: material-solarized-suruplusplus-icons-oomox
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
 Recommends: gtk-update-icon-cache
-Description: Material-Solarized-arrongin++ icon set
- This is the arrongin flavour icons set.
+Description: Material-Solarized-oomox-icons set
+ This is the oomox flavour set.
  .
- The source package is named material-solarized-suruplusplus-ng
+ The source package is named material-solarized-suruplusplus-icons
  because of restrictions by GitHub on characters in repository names.
 
-Package: material-solarized-suruplusplus-aurora
+Package: material-solarized-suruplusplus-icons-telinkrin
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
 Recommends: gtk-update-icon-cache
-Description: Material-Solarized-aurora++ icon set
- This is the aurora flavour icons set.
+Description: Material-Solarized-telinkrin-icons set
+ This is the telinkrin flavour set.
  .
- The source package is named material-solarized-suruplusplus-ng
+ The source package is named material-solarized-suruplusplus-icons
  because of restrictions by GitHub on characters in repository names.
 
-Package: material-solarized-suruplusplus-cyberneon
+Package: material-solarized-suruplusplus-icons-grey
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
 Recommends: gtk-update-icon-cache
-Description: Material-Solarized-cyberneon++ icon set
- This is the cyberneon flavour icons set.
+Description: Material-Solarized-grey-icons set
+ This is the grey flavour set.
  .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-fitdance
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-fitdance++ icon set
- This is the fitdance flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-oomox
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-oomox++ icon set
- This is the oomox flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-rainblue
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-rainblue++ icon set
- This is the rainblue flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-sunrise
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-sunrise++ icon set
- This is the sunrise flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-telinkrin
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-telinkrin++ icon set
- This is the telinkrin flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-60spsycho
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-60spsycho++ icon set
- This is the 60spsycho flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-90ssummer
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-90ssummer++ icon set
- This is the 90ssummer flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
- because of restrictions by GitHub on characters in repository names.
-
-Package: material-solarized-suruplusplus-grey
-Architecture: all
-Depends: ${misc:Depends}, librsvg2-common, material-solarized-suruplusplus-common
-Recommends: gtk-update-icon-cache
-Description: Material-Solarized-grey++ icon set
- This is the grey flavour icons set.
- .
- The source package is named material-solarized-suruplusplus-ng
+ The source package is named material-solarized-suruplusplus-icons
  because of restrictions by GitHub on characters in repository names.

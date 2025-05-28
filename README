@@ -6,8 +6,9 @@ https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized
 
 The Material-Solarized-Suru++ icons have been packaged for BunsenLabs,
 but the details of all the original authors, copyright years and licenses
-are not clear. See the index.theme file in Material-Solarized-Suru++/
-for some more information about contributors and licenses.
+are not clear. See the index.theme file in Material-Solarized-sage-icons/
+or any other flavour for some more information about contributors and
+licenses.
 
 These have been adapted to split out the individual theme colours called
 flavours as to produce many individual themes.

@@ -1,7 +1,6 @@
-The exact copyright years and license details are not available for the 
-material-solarized-suru++ icon set. There is a list of contributors in
-icons/Material-Solarized-common++/index.theme 
-which has been copied into debian/copyright and arbitrarily given a GPL3 licence.
-
-Such vague attribution would certainly disqualify this package 
-from being released by Debian.
+material-solarized-suruplusplus-gtkicons for Debian
+---------------------------------------------
+This is a suite of of different icons themes for the Linux desktop.
+There are several different colored themes to choose from, each
+packaged individually.
+ -- Mick Amadio <01micko@gmx.com>  Sun, 11 May 2025 07:28:05 +1000
